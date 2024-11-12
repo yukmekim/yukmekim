@@ -3,7 +3,9 @@
 <div align=center>
 
  🌱 I’m currently learning ...
+ 
  👯 I’m looking to collaborate on ...
+ 
  🤔 I’m looking for help with ...
 
   ![yukmekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukmekim&show_icons=true&theme=dark)
