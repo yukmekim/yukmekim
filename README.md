@@ -1,21 +1,8 @@
-## About Me 🔭
+Hi, My name is JangHun, Yuk 👋
 
-<div align=center>
-
- 🌱 I’m currently learning ...
- 
- 👯 I’m looking to collaborate on ...
- 
- 🤔 I’m looking for help with ...
-
-  ![yukmekim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukmekim&show_icons=true&theme=dark)
-
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yukmekim.github.io/)](https://yukmekim.github.io/)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyjj1243@gmail.com)](mailto:gyjj1243@gmail.com)
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yukmekim)](https://hits.seeyoufarm.com) 
-
-</div>
+🔭 I’m currently working on Dataeum
+💬 I usually work under the nickname SixMan. 
+I enjoy discussing with my colleagues and I like learning new skills.
 
 <!--
 **yukmekim/yukmekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
