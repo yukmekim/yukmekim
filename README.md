@@ -1,8 +1,8 @@
 Hi, My name is JangHun, Yuk 👋
 
-🔭 I’m currently working on Dataeum
-💬 I usually work under the nickname SixMan. 
-I enjoy discussing with my colleagues and I like learning new skills.
+🔭 I’m currently working on Dataeum  
+💬 I usually work under the nickname SixMan.  
+I enjoy discussing with my colleagues and I like learning new skills.1
 
 <!--
 **yukmekim/yukmekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
