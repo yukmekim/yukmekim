@@ -2,6 +2,7 @@ Hi, My name is JangHun, Yuk 👋
 
 🔭 I’m currently working on Dataeum  
 💬 I usually work under the nickname SixMan.  
+🌱 I’m currently learning ...
 I enjoy discussing with my colleagues and I like learning new skills.
 
 <!--
