@@ -1,10 +1,18 @@
 Hi, My name is JangHun, Yuk 👋
 
-🔭 I’m currently working on Telos.inc  
+Backend Engineer @ [Telos Inc.](https://www.thetelos.net/)
+Building scalable systems with Java & Spring
+
 💬 I usually work under the nickname SixMan, HotSix etc...  
 🌱 I’m currently learning ...
 I enjoy discussing with my colleagues and I like learning new skills.
 
+📫 Contact  
+Email: gyjj1243@gmail.com  
+Blog: https://yukmekim.github.io/
+
+---
+💬 Open to discussions about backend architecture and concurrency control!
 <!--
 **yukmekim/yukmekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
