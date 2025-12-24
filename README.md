@@ -7,9 +7,7 @@ Building scalable systems with Java & Spring
 🌱 I’m currently learning ...
 I enjoy discussing with my colleagues and I like learning new skills.
 
-📫 Contact  
-Email: gyjj1243@gmail.com  
-Blog: https://yukmekim.github.io/
+📫 Blog: https://yukmekim.github.io/
 
 ---
 💬 Open to discussions about backend architecture and concurrency control!
