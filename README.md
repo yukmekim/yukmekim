@@ -11,6 +11,8 @@ I enjoy discussing with my colleagues and I like learning new skills.
 
 ---
 💬 Open to discussions about backend architecture and concurrency control!
+
+
 <!--
 **yukmekim/yukmekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
