@@ -4,8 +4,7 @@ Backend Engineer @ [Telos Inc.](https://www.thetelos.net/)
 Building scalable systems with Java & Spring
 
 💬 I usually work under the nickname SixMan, HotSix etc...  
-🌱 I’m currently learning ...
-I enjoy discussing with my colleagues and I like learning new skills.
+🌱 I enjoy deep technical discussions with colleagues and am always eager to learn and apply new skills.
 
 📫 Blog: https://yukmekim.github.io/
 
