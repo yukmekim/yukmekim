@@ -18,7 +18,8 @@ public class AboutMe {
             .role("Backend Engineer @Telos")
             .languages("Java")
             .backend("Spring Boot", "JPA", "QueryDSL", "Gradle", "Junit5", "Mockito")
-            .infra("Docker", "Redis", "Github Actions")
+            .database("MySQL", "PostgreSQL", "Redis")
+            .infra("Docker", "Github Actions")
             .interests("동시성 제어", "백엔드 아키텍처", "설명을 잘하는 개발자")
             .build();
 }
