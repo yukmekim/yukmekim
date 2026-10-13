@@ -19,7 +19,8 @@ public class AboutMe {
             .languages("Java")
             .backend("Spring Boot", "JPA", "QueryDSL", "Gradle", "Junit5", "Mockito")
             .database("MySQL", "PostgreSQL", "Redis")
-            .infra("Docker", "Github Actions")
+            .infra("Docker", "Nginx", "Github Actions")
+            .tools("Claude Code")
             .interests("동시성 제어", "백엔드 아키텍처", "설명을 잘하는 개발자")
             .build();
 }
