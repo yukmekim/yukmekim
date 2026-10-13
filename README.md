@@ -7,7 +7,7 @@ Building scalable systems with Java & Spring
 
 📫 Blog: https://yukmekim.github.io/
 
-### About me
+#### About me
 
 ```java
 package io.github.yukmekim.introduction;
@@ -26,7 +26,7 @@ public class AboutMe {
 }
 ```
 
-### What I've worked on
+#### What I've worked on
 
 - 다중 인스턴스 환경의 동시성 문제를 원인부터 확인하고 해결합니다
   - [Kubernetes 다중 파드 환경에서 ShedLock으로 스케줄러 중복 실행 막기](https://yukmekim.github.io/backend/2026/10/06/shedlock-scheduler-lock/)
